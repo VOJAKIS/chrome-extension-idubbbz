@@ -1,10 +1,9 @@
-const audio = document.querySelector(`audio`);
-const image = document.querySelector(`img`);
+const video = document.querySelector(`video`);
 
-image.addEventListener(`click`, () => {
-	playAudio();
+video.addEventListener(`click`, () => {
+	play();
 })
 
-const playAudio = () => {
-	audio.play();
+const play = () => {
+	video.play();
 }

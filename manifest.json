@@ -25,7 +25,8 @@
 		{
 			"resources": [
 				"sounds/idubbbz-hey_thats_pretty_good.mp3",
-				"images/idubbbz-hey_thats_pretty_good-face.jpg"
+				"images/idubbbz-hey_thats_pretty_good-face.jpg",
+				"videos/iDubbbz - Hey, it's pretty good.mp4"
 			],
 			"matches": [
 				"<all_urls>"
