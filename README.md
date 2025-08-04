@@ -6,6 +6,12 @@ After clicking on the extension, it starts playing a sound effect.
 
 <br>
 
+## Chrome Extension Webpage
+
+[![iDubbbz chrome extension image](images/icon-128.png)](https://chromewebstore.google.com/detail/lkpjooabhleilckgidpbkeanknnnigco?utm_source=item-share-cb) <-- click on image
+
+<br>
+
 ## What I used
 
 ### Creating an extension
